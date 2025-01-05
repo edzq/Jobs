@@ -19,6 +19,17 @@ How to find MLE/Applied Scientist/RS kind of jobs
 参考资料:
 - [Machine Learning From Scratch](https://github.com/edzq/Machine-Learning-From-Scratch)
 
+基础模型: 
+- KNN
+- Linear Regression
+- Logistic Regression
+- KMeans
+- SVM
+- Decision Tree
+- Random Forest
+
+
+
 ## Deep Learning and GPT
 
 参考https://github.com/karpathy/LLM101n
